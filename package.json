@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.21.1",
     "mongoose": "^8.9.5",
+    "pg": "^8.13.1",
     "redis": "^4.7.0"
   },
   "devDependencies": {
